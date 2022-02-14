@@ -27,7 +27,7 @@ export default function App() {
         })
       }
     },
-    [],
+    [resources],
   )
 
   // if not signed in, return early with sign-in prompt
